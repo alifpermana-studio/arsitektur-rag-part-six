@@ -1,0 +1,5 @@
+{
+  "name": "Masterclass RAG Bagian 6 — Metadata Enrichment Otomatis — Melatih Agen AI Melabeli Dokumen untuk Mempersempit Ruang Pencarian",
+  "description": "Memadukan Analogi Perpustakaan Tanpa Label Rak (Kemalasan Input Manual Manusia) dan Analogi Sekali Dayung Dua Pulau Terlampaui (Single-Pass Piggybacking) dengan bedah Structured JSON Output, validasi Zod di Express.js, kontrol akses RBAC, serta operator containment `@>` pada indeks GIN PostgreSQL.",
+  "requestFramePermissions": []
+}
